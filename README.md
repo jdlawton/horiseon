@@ -4,3 +4,5 @@ For this challenge I was provided with existing code and tasked to enhance the p
 
 Link to the final page:
 https://jdlawton.github.io/horiseon-social-solution-services/
+
+![picture](./assets/images/brand-awareness.png)
